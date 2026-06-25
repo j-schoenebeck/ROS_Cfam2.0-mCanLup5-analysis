@@ -14,6 +14,7 @@ Find fastq.gz and associated indexes [here](https://genomeark.s3.amazonaws.com/i
 
 ## Genomic Data
 ONT, HiFi, Illumina, and 10X data [here](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/genomic_data/)  
+
 Note that 10X linked read data was not used in the assembly.
 
 
