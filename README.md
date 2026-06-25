@@ -13,12 +13,12 @@ Contains *.fastq.gz and indexes.
 - Alternate assembly (ie, chr1_hap2..chr38_hap2): mCanLup5.ROS_Cfam2_v0.5.3.alt.cur.20260625.fa.gz
 - chrM: mCanLup5.ROS_Cfam2_v0.5.3.MT.cur.20260625.fa.gz 
 
-## Genomic data
-Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/genomic_data/])
+## Genomic Data
+Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])
 Contains ONT, HiFi, Illumina, and 10X. The latter was not used for assembly.
 
-## Transcriptomic data
-Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/transcriptomic_data/])
+## Transcriptomic Data
+Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])
 Contains PacBio Kinnex data for 15 tissues. 
 Coming soon: remaining Kinnex data for tissues and cell lines, ribodepleted RNAseq
 
