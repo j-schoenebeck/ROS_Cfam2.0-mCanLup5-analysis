@@ -4,6 +4,7 @@ This repository provides supporting data and information for the Verkko assembly
 
 # Latest Assembly Draft:
 **ROS_Cfam2_v0.5.3.primary_MT.fa.gz**
-
 This is a primary assembly (38 automosomes, X, Y, and MT).
 
+## Raw data downloads
+Genomeark: https://www.genomeark.org/t2t-all/Canis_lupus.html
