@@ -7,18 +7,18 @@ Assembly: Verkko v2.2.1, curation Verkko-fillet,
 
 ## Latest Assembly Draft
 Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])  
-Contains *.fastq.gz and indexes.  
+Contains fastq.gz and indexes.  
 - Diploid assembly (everything listed below): mCanLup5.ROS_Cfam2_v0.5.3.dip.cur.20260625.fa.gz
 - Primary assembly (ie, chr1_hap1..chr38_hap1, chrX, chrY): mCanLup5.ROS_Cfam2_v0.5.3.pri.cur.20260625.fa.gz
 - Alternate assembly (ie, chr1_hap2..chr38_hap2): mCanLup5.ROS_Cfam2_v0.5.3.alt.cur.20260625.fa.gz
 - chrM: mCanLup5.ROS_Cfam2_v0.5.3.MT.cur.20260625.fa.gz 
 
 ## Genomic Data
-Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])
+Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/genomic_data/])  
 Contains ONT, HiFi, Illumina, and 10X. The latter was not used for assembly.
 
 ## Transcriptomic Data
-Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])
-Contains PacBio Kinnex data for 15 tissues. 
-Coming soon: remaining Kinnex data for tissues and cell lines, ribodepleted RNAseq
+Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/transcriptomic_data/])  
+Contains PacBio Kinnex data for 15 tissues.  
+**Coming soon: remaining Kinnex data for tissues and cell lines, ribodepleted RNAseq**
 
