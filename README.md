@@ -6,7 +6,7 @@ This repository provides supporting data and information for the Verkko assembly
 Assembly: Verkko v2.2.1, curation Verkko-fillet, 
 
 ## Latest Assembly Draft
-Genomeark: ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])  
+Contains fastq.gz and indexes [here] ([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/])  
 Contains fastq.gz and indexes.  
 - Diploid assembly (everything listed below): mCanLup5.ROS_Cfam2_v0.5.3.dip.cur.20260625.fa.gz
 - Primary assembly (ie, chr1_hap1..chr38_hap1, chrX, chrY): mCanLup5.ROS_Cfam2_v0.5.3.pri.cur.20260625.fa.gz
