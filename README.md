@@ -5,21 +5,24 @@ This repository provides supporting data and information for the Verkko assembly
 
 Assembly: Verkko v2.2.1, curation Verkko-fillet, 
 
-## Latest Assembly Draft
+## Assembly
+### Latest Assembly Draft (June 2026)
 Find fastq.gz and associated indexes [here](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/assembly_curated/)  
 - Diploid assembly (everything listed below): mCanLup5.ROS_Cfam2_v0.5.3.dip.cur.20260625.fa.gz
 - Primary assembly (ie, chr1_hap1..chr38_hap1, chrX, chrY): mCanLup5.ROS_Cfam2_v0.5.3.pri.cur.20260625.fa.gz
 - Alternate assembly (ie, chr1_hap2..chr38_hap2): mCanLup5.ROS_Cfam2_v0.5.3.alt.cur.20260625.fa.gz
 - chrM: mCanLup5.ROS_Cfam2_v0.5.3.MT.cur.20260625.fa.gz 
 
-## Genomic Data
+## Supporting data
+### Genomic Data
 ONT, HiFi, Illumina, and 10X data [here](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/genomic_data/)  
 
 Note that 10X linked read data was not used in the assembly.
 
-
-## Transcriptomic Data
+### Transcriptomic Data
 PacBio Kinnex data for 15 tissues [here](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/transcriptomic_data/)  
  
 **Coming soon: remaining Kinnex data for tissues and cell lines, ribodepleted RNAseq**
 
+## Data use
+All data is released to the public domain (CC0) and we encourage its reuse. However, we are in the process of finishing and analyzing this genome, To to avoid duplicating efforts, we encourage you to contact us if you are interested in contributing. 
