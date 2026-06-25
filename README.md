@@ -17,7 +17,7 @@ Assembly: Verkko v2.2.1, curation Verkko-fillet,
 
 
 ## Transcriptomic Data
-[Contains PacBio Kinnex data for 15 tissues]([https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/transcriptomic_data/])  
+[Contains PacBio Kinnex data for 15 tissues](https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus/mCanLup5/transcriptomic_data/)  
  
 **Coming soon: remaining Kinnex data for tissues and cell lines, ribodepleted RNAseq**
 
