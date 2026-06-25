@@ -31,7 +31,7 @@ PacBio Kinnex data for 15 tissues [here](https://genomeark.s3.amazonaws.com/inde
 **Coming soon
 
 ## Data use
-All data is released to the public domain (CC0) and we encourage its reuse. However, we are in the process of finishing and analyzing this genome, To to avoid duplicating efforts, we encourage you to contact us if you are interested in contributing.
+All data is released to the public domain (CC0) and we encourage its reuse. However, we are in the process of finishing and analyzing this genome. To to avoid duplicating efforts, we encourage you to contact us if you are interested in contributing.
 
 ## Contacts
 Questions? Let's chat. Jeff Schoenebeck (jeff.schoenebeck@roslin.ed.ac.uk), Elaine Ostrander (eostrand@mail.nih.gov), Adam Phillippy (aphillippy@jhu.edu).
